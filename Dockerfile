@@ -1,4 +1,4 @@
-FROM tensorflow/tensorflow:0.7.1-devel
+FROM tensorflow/tensorflow:latest
 
 # launchbot-specific labels
 LABEL name.launchbot.io="Tensorflow"
